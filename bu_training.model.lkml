@@ -7,6 +7,7 @@ label: "HR"
 
 explore: training_set {
   label: "Training Set 📗📘📙"
+  group_label: "Training"
 }
 
 view: training_set {
