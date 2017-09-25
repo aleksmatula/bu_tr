@@ -8,7 +8,7 @@ label: "HR"
 explore: training_set {
   label: "Training Set 📗📘📙"
   group_label: "Training"
-  hidden: yes
+#   hidden: yes
 }
 
 view: training_set {
