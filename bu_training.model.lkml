@@ -1,6 +1,7 @@
 connection: "redshift"
 
 # include: "*.view"
+
 # include: "*.dashboard"
 
 label: "HR"
